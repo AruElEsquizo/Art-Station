@@ -5,7 +5,7 @@
 ===========================================================*/
 
 /*----------------------------*\
-	Typography
+	Typografia
 \*----------------------------*/
 
 body {
@@ -40,7 +40,7 @@ ul, ol {
 }
 
 /*----------------------------*\
-	Buttons
+	Botones
 \*----------------------------*/
 
 .primary-btn {
@@ -63,7 +63,7 @@ ul, ol {
 }
 
 /*----------------------------*\
-	Inputs
+	Entradas
 \*----------------------------*/
 
 /*-- Text input --*/
@@ -81,7 +81,7 @@ textarea.input {
   min-height: 90px;
 }
 
-/*-- Number input --*/
+/*-- Entradas numericas --*/
 
 .input-number {
   position: relative;
@@ -133,7 +133,7 @@ textarea.input {
   color: #D10024;
 }
 
-/*-- Select input --*/
+/*-- Selecciones de entradas--*/
 
 .input-select {
   padding: 0px 15px;
@@ -142,7 +142,7 @@ textarea.input {
   height: 40px;
 }
 
-/*-- checkbox & radio input --*/
+/*-- Checador --*/
 
 .input-radio, .input-checkbox {
   position: relative;
@@ -241,7 +241,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Section
+	Sección
 \*----------------------------*/
 
 .section {
@@ -411,7 +411,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Search
+	Busqueda
 \*----------------------------*/
 
 .header-search {
@@ -443,7 +443,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Cart
+	Carrito
 \*----------------------------*/
 
 .header-ctn {
@@ -569,7 +569,7 @@ textarea.input {
 }
 
 /*=========================================================
-	03 -> Navigation
+	03 -> Navegacion
 ===========================================================*/
 
 #navigation {
@@ -662,7 +662,7 @@ textarea.input {
 }
 
 /*=========================================================
-	04 -> CATEGORY SHOP
+	04 -> Categorias de la tienda
 ===========================================================*/
 
 .shop {
@@ -735,7 +735,7 @@ textarea.input {
 }
 
 /*=========================================================
-	05 -> HOT DEAL
+	05 -> Ofertas del dia
 ===========================================================*/
 
 #hot-deal.section {
@@ -798,11 +798,11 @@ textarea.input {
 }
 
 /*=========================================================
-	06 -> PRODUCT
+	06 -> PRODUCTO
 ===========================================================*/
 
 /*----------------------------*\
-	product
+	producto
 \*----------------------------*/
 
 .product {
@@ -1028,7 +1028,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Widget product
+	Etiquetas del producto
 \*----------------------------*/
 
 .product-widget {
@@ -1105,7 +1105,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Products slick
+	Slick del producto
 \*----------------------------*/
 
 .products-slick .slick-list {
@@ -1156,7 +1156,7 @@ textarea.input {
 }
 
 /*=========================================================
-	07 -> PRODUCTS PAGE
+	07 -> Paginas del producto
 ===========================================================*/
 
 /*----------------------------*\
@@ -1231,7 +1231,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Store
+	Tienda
 \*----------------------------*/
 
 .store-filter {
@@ -1337,11 +1337,11 @@ textarea.input {
 }
 
 /*=========================================================
-	08 -> PRODUCT DETAILS PAGE
+	08 -> Detalles del producto individual
 ===========================================================*/
 
 /*----------------------------*\
-	Product view
+	Visor del producto
 \*----------------------------*/
 
 #product-main-img .slick-prev {
@@ -1415,7 +1415,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	Product details
+ Detalles del producto
 \*----------------------------*/
 
 .product-details .product-name {
@@ -1560,7 +1560,7 @@ textarea.input {
 }
 
 /*----------------------------*\
-	 Product tab
+	 Tab (pendiente de usarse en algo, tuvo fallas el html, si no tiene arreglo, borrar)
 \*----------------------------*/
 
 #product-tab {
@@ -1619,7 +1619,7 @@ textarea.input {
   width: 100%;
 }
 
-/*-- Rating --*/
+/*--Puntaje del producto con estrellas--*/
 
 .rating-avg {
   font-size: 24px;
@@ -1672,7 +1672,7 @@ textarea.input {
   color: #8D99AE;
 }
 
-/*-- Reviews --*/
+/*--Opiniones--*/
 
 .reviews li {
   position: relative;
@@ -1866,7 +1866,7 @@ textarea.input {
 }
 
 /*=========================================================
-	10 -> NEWSLETTER
+	10 -> Boletin de noticias
 ===========================================================*/
 
 #newsletter.section {
